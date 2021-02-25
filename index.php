@@ -6,5 +6,6 @@
 <body>
   <h2><?php echo 'Hola Douglano'; ?></h2>
   <p>El aprendizaje de nuevas herramientas de trabajo tienen su precio<p>
+  <p>Pero genera sus gratificaciones</p>
 </body>
 </html>
